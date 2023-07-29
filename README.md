@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Aakanksha Khedkar - IT enthusiastic | CSE Graduate 
+
+
+👋 Hello! I am Aakanksha Khedkar, pursuing Bachelor's of Engineering in Computer Engineering with a passion for software development and problem-solving. I love working on projects that challenge me to think creatively and enhance my skills and make me more professional. 💻🚀
+
+### Skills
+- Programming Languages: C++, Java, JavaScript, Python
+- Web Technologies: HTML, CSS, React, PHP, Bootstrap 
+- Databases: MySQL
+- Tools: Eclipse, Visual Studio 
+
+## Education 🎓
+- Dr. D.Y. Patil College of Engineering Akurdi (2021 - 2024)
+  B.E. - Computer Engineering
+
+- Government Polytechnic Khamgaon (2018 - 2021)
+  Diploma - Computer Science and Engineering
+
+- Bhartiya Dnyanpeeth Highschool Nandura (2018)
+  SSC
+
+## Contact 📧🤝
+- Email: akanshakhedkar@gmail.com
+- LinkedIn: www.linkedin.com/in/aakanksha-khedkar-3b8946220
+
+## Certifications 🏆📜
+- Java Programming - NPTEL
+- Python Fundamentals - GreatLearning 
+- PHP - Sololearn 
+
