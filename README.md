@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
+
 ### Aakanksha Khedkar - IT enthusiastic | CSE Graduate 
 
 
@@ -33,8 +34,6 @@ Here are some ideas to get you started:
 - Government Polytechnic Khamgaon (2018 - 2021)
   Diploma - Computer Science and Engineering
 
-- Bhartiya Dnyanpeeth Highschool Nandura (2018)
-  SSC
 
 ## Contact 📧🤝
 - Email: akanshakhedkar@gmail.com
