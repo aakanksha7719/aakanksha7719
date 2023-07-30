@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 
 
-### Aakanksha Khedkar - IT enthusiastic | CSE Graduate 
+### Aakanksha Khedkar - IT enthusiastic | CSE Graduate | Software Developer 
 
 
 
-👋 Hello! I am Aakanksha Khedkar, pursuing Bachelor's of Engineering in Computer Engineering with a passion for software development and problem-solving. I love working on projects that challenge me to think creatively and enhance my skills and make me more professional. 💻🚀
+👋 Hello! I am Aakanksha Khedkar, pursuing Bachelor's of Engineering in Computer Engineering💻 with a passion for software development and problem-solving. I love working on projects that challenge me to think creatively and enhance my skills and make me more professional.💻🚀
 
 ### Skills
 - Programming Languages: C++, Java, JavaScript, Python
