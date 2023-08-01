@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--👋 Hi, I’m Aakanksha Khedkar.
--👀 I’m interested in Software Development, Web Development and Programming.
--🌱 I’m currently studying at Dr. D. Y. Patil College of Engineering, Akurdi, Pune.
--💞️ I’m looking to collaborate with the people like you.
--📫 How to reach me 
--akanshakhedkar@gmail.com
--http://www.linkedin.com/in/aakanksha-khedkar-3b8946220
-
+👋 Hi, I’m Aakanksha Khedkar.
+👀 I’m interested in Software Development, Web Development, and Programming.
+🌱 I’m currently studying at Dr. D. Y. Patil College of Engineering, Akurdi, Pune.
+💞️ I’m looking to collaborate with people like you.
+📫 How to reach me:
+- Email: akanshakhedkar@gmail.com
+- LinkedIn: http://www.linkedin.com/in/aakanksha-khedkar-3b8946220
