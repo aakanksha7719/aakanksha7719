@@ -14,31 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-👋 Hello! I am Aakanksha Khedkar, pursuing Bachelor's of Engineering in Computer Engineering💻 with a passion for software development and problem-solving. I love working on projects that challenge me to think creatively and enhance my skills and make me more professional.💻🚀
-
-### Skills
-- Programming Languages: C++, Java, JavaScript, Python
-- Web Technologies: HTML, CSS, React, PHP, Bootstrap 
-- Databases: MySQL
-- Tools: Eclipse, Visual Studio 
-
-## Education 🎓
-- Dr. D.Y. Patil College of Engineering Akurdi (2021 - 2024)
-  B.E. - Computer Engineering
-
-- Government Polytechnic Khamgaon (2018 - 2021)
-  Diploma - Computer Science and Engineering
-
-## Contact 📧🤝
-- Email: akanshakhedkar@gmail.com
-- LinkedIn: www.linkedin.com/in/aakanksha-khedkar-3b8946220
-
-## Certifications 🏆📜
-- Java Programming - NPTEL
-- Python Fundamentals - GreatLearning 
-- PHP - Sololearn 
-
-
+👋 Hi, I’m Aakanksha Khedkar 
+👀 I’m interested in Software Development, Web Development and Programming.
+🌱 I’m currently studying at Dr. D. Y. Patil College of Engineering, Akurdi, Pune.
+💞️ I’m looking to collaborate with the people like you.
+📫 How to reach me 
+-akanshakhedkar@gmail.com
+-http://www.linkedin.com/in/aakanksha-khedkar-3b8946220
 
