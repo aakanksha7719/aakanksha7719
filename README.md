@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Aakanksha Khedkar 
+👋 Hi, I’m Aakanksha Khedkar.
 👀 I’m interested in Software Development, Web Development and Programming.
 🌱 I’m currently studying at Dr. D. Y. Patil College of Engineering, Akurdi, Pune.
 💞️ I’m looking to collaborate with the people like you.
